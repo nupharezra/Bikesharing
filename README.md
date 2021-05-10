@@ -4,7 +4,7 @@
 
 The purpose of this project is to see if a bike-sharing business is worth implementing in Des Moines, Iowa. Using Pandas and Tableau, we have transformed and visualized Citibike data from New York to understand how this program works and if it will be successful in the city of Des Moines.
 
-[link to dashboard](LINK GOES HERE "Tableau Public dashboard")
+[link to dashboard](https://public.tableau.com/shared/NWGRHGJKZ?:display_count=y&:origin=viz_share_link "Tableau Public dashboard")
 
 ## Results:
 
